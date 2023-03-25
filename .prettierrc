@@ -5,13 +5,13 @@
 	"useTabs": true,
 	"quoteProps": "as-needed",
 	"bracketSpacing": true,
-	"singleQuote": true,
+	"singleQuote": false,
 	"bracketSameLine": false,
 	"endOfLine": "auto",
 	"arrowParens": "avoid",
 	"overrides": [
 		{
-			"files": ["*.yml"],
+			"files": ["*.yml", "*.yaml"],
 			"options": {
 				"tabWidth": 2,
 				"useTabs": false
