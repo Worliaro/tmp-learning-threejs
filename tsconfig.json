@@ -17,6 +17,7 @@
         ],
         "baseUrl": ".",
         "types": [
+            "@types/nprogress",
             "@vitejs/plugin-vue",
             "element-plus/global",
         ],
@@ -30,7 +31,7 @@
     },
     "include": [
         "src/**/*.ts",
-        "src/**/*.d.ts",
+        "src/*.d.ts",
         "src/**/*.tsx",
         "src/**/*.vue",
     ],
