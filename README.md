@@ -19,4 +19,3 @@ secondly, execute the next command
 ```
 npm run dev
 ```
-
